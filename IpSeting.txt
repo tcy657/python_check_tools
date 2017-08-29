@@ -1,0 +1,17 @@
+#securecrtPath: 设置secureCRT程序路径，如"D:\SecureCRT\SecureCRT.exe "
+#ip: 需登录设备的ip地址：如"4.198.103.1"
+#resultPath：要求末尾带\，如"d:\SecureCRT\"
+#softName:执行的程序名称
+#username: telnet 127.0.0.1 2650登录无用户名时，请设置为"none"
+#说明：“=”是判断关键信息的分隔符，分割线以上部分绝不可出现
+#``````````````````````````````````````````````````````````````
+securecrtPath=D:\scurt  CRT\CRT\SecureCRT.exe
+resultPath=.\
+softName=NPversion_check.vbs
+username=none
+userpwd=fiberhome
+ip=10.88.91.1
+ip=10.88.2.1
+ip=5.198.23.1
+
+
